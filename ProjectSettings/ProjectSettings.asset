@@ -721,8 +721,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Begin_To_Zero
-  metroPackageVersion: 
+  metroPackageName: BeginToZero
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -730,7 +730,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Begin_To_Zero
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Begin_To_Zero
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
