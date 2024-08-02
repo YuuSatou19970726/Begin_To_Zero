@@ -8,6 +8,8 @@ TagManager:
   - Trap
   - Enemy
   - Bullet
+  - goal
+  - Cup
   layers:
   - Default
   - TransparentFX

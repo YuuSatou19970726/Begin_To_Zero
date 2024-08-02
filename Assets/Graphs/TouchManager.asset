@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: TouchManager
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"argumentCount":1,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"TouchMove","$type":"System.String"}},"position":{"x":-464.0,"y":-281.0},"guid":"f3c0ced1-3a91-4284-9a35-c37f97e9b97e","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"9"},{"kind":"Object","defaultValues":{"name":{"$content":"moveHorizontal","$type":"System.String"},"object":null},"position":{"x":-182.0,"y":-281.0},"guid":"df7dd615-76ab-4996-8d4d-a48643ad00ec","$version":"A","$type":"Unity.VisualScripting.SetVariable","$id":"11"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"assign","guid":"cd0c849f-8fb7-4a25-8fb0-07498370add8","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"argument_0","destinationUnit":{"$ref":"11"},"destinationKey":"input","guid":"eb57e59d-c223-4ea6-b529-75f8dfcc5860","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
